@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Andrea</h1>
+<h1 align="center">Hi, I'm Andrea Holmboe</h1>
 <h3 align="center">I’m a third year Frontend student at Kristiania</h3>
 
 <h3 align="left">Languages and Tools:</h3>
